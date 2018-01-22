@@ -21,7 +21,6 @@ int main(void)
 	return 0;
 }
 
-
 void bsort()
 {
    int i, j;
@@ -168,6 +167,3 @@ void print_array(int * X, int)
 		printf("%d \t", X[i]);
 	printf("\n");
 }
-
-		Page 1 of 4
-
