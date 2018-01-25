@@ -22,7 +22,7 @@ void print()
 	fout << "\n";
 }
 
-// bubble sort algorithm
+// selection sort algorithm
 void ssort()
 {
 	int i, j, min;
